@@ -80,7 +80,7 @@ An **Agentic AI-powered** interview simulation platform that operates autonomous
 - 🎯 Adapts question difficulty based on candidate performance
 - 💬 Delivers personalized feedback after each response
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaypratap963)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaypratap963/Talent_AI)
 
 ---
 
